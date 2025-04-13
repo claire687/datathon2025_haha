@@ -1,0 +1,37 @@
+RegionID,SizeRank,RegionName,RegionType,StateName,State,City,Metro,CountyName,BaseDate,2025-03-31,2025-05-31,2026-02-28
+96990,38,92683,zip,CA,CA,Westminster,"Los Angeles-Long Beach-Anaheim, CA",Orange County,2025-02-28,0.2,0.2,0.7
+97023,68,92804,zip,CA,CA,Anaheim,"Los Angeles-Long Beach-Anaheim, CA",Orange County,2025-02-28,0.2,0.3,0.7
+97004,123,92704,zip,CA,CA,Santa Ana,"Los Angeles-Long Beach-Anaheim, CA",Orange County,2025-02-28,-0.2,-0.4,0.5
+97024,230,92805,zip,CA,CA,Anaheim,"Los Angeles-Long Beach-Anaheim, CA",Orange County,2025-02-28,0.1,0.1,0.5
+97020,254,92801,zip,CA,CA,Anaheim,"Los Angeles-Long Beach-Anaheim, CA",Orange County,2025-02-28,0.2,0.2,0.5
+97003,309,92703,zip,CA,CA,Santa Ana,"Los Angeles-Long Beach-Anaheim, CA",Orange County,2025-02-28,-0.1,-0.2,0.5
+96959,381,92627,zip,CA,CA,Costa Mesa,"Los Angeles-Long Beach-Anaheim, CA",Orange County,2025-02-28,0.2,0.3,0.7
+97007,602,92707,zip,CA,CA,Santa Ana,"Los Angeles-Long Beach-Anaheim, CA",Orange County,2025-02-28,0.0,-0.3,0.4
+96952,698,92618,zip,CA,CA,Irvine,"Los Angeles-Long Beach-Anaheim, CA",Orange County,2025-02-28,0.4,0.8,0.9
+97047,726,92840,zip,CA,CA,Garden Grove,"Los Angeles-Long Beach-Anaheim, CA",Orange County,2025-02-28,0.1,0.1,0.6
+97068,801,92870,zip,CA,CA,Placentia,"Los Angeles-Long Beach-Anaheim, CA",Orange County,2025-02-28,0.2,0.2,0.7
+97041,810,92833,zip,CA,CA,Fullerton,"Los Angeles-Long Beach-Anaheim, CA",Orange County,2025-02-28,0.2,0.2,0.6
+96958,832,92626,zip,CA,CA,Costa Mesa,"Los Angeles-Long Beach-Anaheim, CA",Orange County,2025-02-28,0.0,-0.2,0.7
+97005,898,92705,zip,CA,CA,North Tustin,"Los Angeles-Long Beach-Anaheim, CA",Orange County,2025-02-28,0.2,0.0,0.8
+97001,899,92701,zip,CA,CA,Santa Ana,"Los Angeles-Long Beach-Anaheim, CA",Orange County,2025-02-28,0.1,-0.1,0.5
+96185,931,90630,zip,CA,CA,Cypress,"Los Angeles-Long Beach-Anaheim, CA",Orange County,2025-02-28,0.1,0.1,0.6
+97021,1742,92802,zip,CA,CA,Anaheim,"Los Angeles-Long Beach-Anaheim, CA",Orange County,2025-02-28,0.1,0.1,0.5
+97025,1916,92806,zip,CA,CA,Anaheim,"Los Angeles-Long Beach-Anaheim, CA",Orange County,2025-02-28,-0.1,-0.2,0.4
+97039,2288,92831,zip,CA,CA,Fullerton,"Los Angeles-Long Beach-Anaheim, CA",Orange County,2025-02-28,0.2,0.2,0.7
+97048,2394,92841,zip,CA,CA,Garden Grove,"Los Angeles-Long Beach-Anaheim, CA",Orange County,2025-02-28,0.3,0.4,0.7
+97067,2533,92869,zip,CA,CA,Orange,"Los Angeles-Long Beach-Anaheim, CA",Orange County,2025-02-28,0.0,-0.1,0.6
+96978,2688,92660,zip,CA,CA,Newport Beach,"Los Angeles-Long Beach-Anaheim, CA",Orange County,2025-02-28,0.3,0.2,0.6
+97006,2808,92706,zip,CA,CA,Santa Ana,"Los Angeles-Long Beach-Anaheim, CA",Orange County,2025-02-28,0.1,0.1,0.7
+96947,3131,92612,zip,CA,CA,Irvine,"Los Angeles-Long Beach-Anaheim, CA",Orange County,2025-02-28,0.5,0.6,1.0
+96941,3408,92604,zip,CA,CA,Irvine,"Los Angeles-Long Beach-Anaheim, CA",Orange County,2025-02-28,0.4,0.4,1.2
+96948,4107,92614,zip,CA,CA,Irvine,"Los Angeles-Long Beach-Anaheim, CA",Orange County,2025-02-28,0.5,0.6,0.9
+97066,4280,92868,zip,CA,CA,Orange,"Los Angeles-Long Beach-Anaheim, CA",Orange County,2025-02-28,-0.1,0.0,0.6
+96203,4281,90680,zip,CA,CA,Stanton,"Los Angeles-Long Beach-Anaheim, CA",Orange County,2025-02-28,0.2,0.4,0.5
+97018,4422,92782,zip,CA,CA,Tustin,"Los Angeles-Long Beach-Anaheim, CA",Orange County,2025-02-28,0.4,0.5,0.9
+96943,4596,92606,zip,CA,CA,Irvine,"Los Angeles-Long Beach-Anaheim, CA",Orange County,2025-02-28,0.4,0.3,1.2
+97040,4765,92832,zip,CA,CA,Fullerton,"Los Angeles-Long Beach-Anaheim, CA",Orange County,2025-02-28,0.1,0.1,0.5
+96218,5451,90720,zip,CA,CA,Los Alamitos,"Los Angeles-Long Beach-Anaheim, CA",Orange County,2025-02-28,0.1,-0.1,0.6
+96940,6403,92603,zip,CA,CA,Irvine,"Los Angeles-Long Beach-Anaheim, CA",Orange County,2025-02-28,0.6,0.6,1.2
+97064,7561,92866,zip,CA,CA,Orange,"Los Angeles-Long Beach-Anaheim, CA",Orange County,2025-02-28,0.0,-0.1,0.7
+96957,8702,92625,zip,CA,CA,Newport Beach,"Los Angeles-Long Beach-Anaheim, CA",Orange County,2025-02-28,0.5,0.4,0.5
+96980,17133,92662,zip,CA,CA,Newport Beach,"Los Angeles-Long Beach-Anaheim, CA",Orange County,2025-02-28,-0.2,-0.5,-0.1
